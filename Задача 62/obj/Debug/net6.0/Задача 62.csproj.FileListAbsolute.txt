@@ -1,0 +1,15 @@
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\obj\Debug\net6.0\Задача 62.csproj.AssemblyReference.cache
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\obj\Debug\net6.0\Задача 62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\obj\Debug\net6.0\Задача 62.AssemblyInfoInputs.cache
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\obj\Debug\net6.0\Задача 62.AssemblyInfo.cs
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\obj\Debug\net6.0\Задача 62.csproj.CoreCompileInputs.cache
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\bin\Debug\net6.0\Задача 62.exe
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\bin\Debug\net6.0\Задача 62.deps.json
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\bin\Debug\net6.0\Задача 62.runtimeconfig.json
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\bin\Debug\net6.0\Задача 62.dll
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\bin\Debug\net6.0\Задача 62.pdb
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\obj\Debug\net6.0\Задача 62.dll
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\obj\Debug\net6.0\refint\Задача 62.dll
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\obj\Debug\net6.0\Задача 62.pdb
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\obj\Debug\net6.0\Задача 62.genruntimeconfig.cache
+C:\Users\iPC\Desktop\Семинар 8. дз\Задача 62\obj\Debug\net6.0\ref\Задача 62.dll
